@@ -1,1 +1,19 @@
-Hello World 2
+Spring Batch Report Writing Framework
+
+Use with Spring Batch framework to generate PDF reports 
+
+Features 
+
+Mutiple Totals and Subtotals
+Format Headings/Footings
+Easy to apply report Layout
+
+
+Usage  
+
+
+Example  
+
+Includes fully functional test batch project 
+
+Install project
