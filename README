@@ -1,4 +1,4 @@
-Spring Batch Report Writing Framework
+*Spring Batch Report Writing Framework*
 
 Use with Spring Batch framework to generate PDF reports 
 
@@ -8,8 +8,12 @@ Mutiple Totals and Subtotals
 Format Headings/Footings
 Easy to apply report Layout
 
-
 Usage  
+
+
+Define a report factory that describes report columns, heading, groupings, and totals
+
+Implement an Item reader that maps rows to List<Data> type. 
 
 
 Example  
